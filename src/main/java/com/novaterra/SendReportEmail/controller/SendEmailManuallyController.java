@@ -1,4 +1,4 @@
-package com.novaterra.send_report_email.controller;
+package com.novaterra.SendReportEmail.controller;
 
 import com.novaterra.SendReportEmail.service.ScheduledShipmentService;
 import jakarta.mail.MessagingException;

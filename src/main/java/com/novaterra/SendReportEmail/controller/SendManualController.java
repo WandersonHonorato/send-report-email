@@ -12,7 +12,7 @@ import java.io.FileNotFoundException;
 @RequiredArgsConstructor
 @RestController
 @RequestMapping("/sends")
-public class SendEmailManuallyController {
+public class SendManualController {
 
     private final ScheduledShipmentService scheduledService;
 

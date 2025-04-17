@@ -1,8 +1,0 @@
-[33m00d545c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m chore(application.properties) database and directory configuration
-[33m0737685[m feat(controller): add Controller to test endpoints
-[33m5701a6a[m[33m ([m[1;31mgithub-project/master[m[33m)[m feat(service): add ScheduledShipmentService for automatic sending
-[33m4e8e0a0[m feat(service): create EmailService
-[33mdc8ad23[m feat(repository): create CustomerRepository interface
-[33mbf7ce84[m feat(model): create Customer entity with attributes
-[33ma7334dc[m feat create classes from packages
-[33m7ffe950[m init project
